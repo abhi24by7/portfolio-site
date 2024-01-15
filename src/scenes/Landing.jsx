@@ -58,7 +58,7 @@ const Landing = ({ setSelectedPage }) => {
           <p className="mt-10 mb-7 text-sm text-center md:text-start">
             {/* Adipiscing arcu, in aliquam fringilla cursus. Elit arcu elementum
             viverra malesuada sem ac faucibus dolor. Sagittis scelerisque. */}
-Crafting digital experiences with a passion for problem-solving – I'm a CS student and full-stack web developer weaving innovation into every line of code.          </p>
+Crafting digital experiences with a passion for problem-solving - I'm a CS student and full-stack web developer weaving innovation into every line of code.</p>
         </motion.div>
 
         {/* CALL TO ACTIONS */}

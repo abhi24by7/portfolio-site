@@ -24,8 +24,7 @@ const MySkills = () => {
           </p>
           <LineGradient width="w-1/3" />
           <p className="mt-10 mb-7">
-            Aliquam, amet dui feugiat facilisi dui. Aliquam aliquet integer ut
-            fames odio in at.
+            I'm a full-stack web developer with a knack for problem-solving coding in C++ programming language.
           </p>
         </motion.div>
 
